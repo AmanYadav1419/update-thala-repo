@@ -138,25 +138,25 @@ form {
 }
 
 input {
-    height: 8vw; /* Adjusted height for responsiveness */
+    height: 4.5vw; /* Adjusted height for responsiveness */
     width: 80%;
     border-radius: 20px;
     border: 1px solid #222020;
-    font-size: 4vw; /* Adjusted font size for responsiveness */
+    font-size: 3.2vw; /* Adjusted font size for responsiveness */
     color: black;
     text-align: center;
 }
 
 button {
-    height: 8vw; /* Adjusted height for responsiveness */
+    height: 4vw; /* Adjusted height for responsiveness */
     width: 80%;
     border-radius: 20px;
     border: none;
     background-color: #1b6f7a;
-    font-size: 3.5vw; /* Adjusted font size for responsiveness */
+    font-size: 3.2vw; /* Adjusted font size for responsiveness */
     color: white;
     cursor: pointer;
-    margin: 5% 0; /* Adjusted margin for responsiveness */
+    margin: 3% 0; /* Adjusted margin for responsiveness */
     transition: all ease-in-out 0.3s;
     text-transform: uppercase;
     transform: scale(0.9);
@@ -177,9 +177,9 @@ button:hover {
 }
 
 h4 {
-    margin-top: 2%; /* Adjusted margin for responsiveness */
+    margin-top: 1.5%; /* Adjusted margin for responsiveness */
     color: rgb(20, 19, 19);
-    margin-bottom: 5%;
+    margin-bottom: 2.4%;
 }
 
 footer {
@@ -188,8 +188,8 @@ footer {
     align-items: center;
     padding: 2%;
     position: sticky;
-    bottom: auto;
-    background-color: #778053;
+    bottom: 0;
+    background-color: #c5b418;
     flex-wrap: wrap; /* Wrap items for smaller screens */
 }
 
@@ -206,7 +206,7 @@ footer div {
 }
 
 footer a img {
-    height: 3vw; /* Adjusted height for responsiveness */
+    height: 2.5vw; /* Adjusted height for responsiveness */
     border-radius: 50%;
     margin-bottom: 2%; /* Adjusted margin for responsiveness */
 }
